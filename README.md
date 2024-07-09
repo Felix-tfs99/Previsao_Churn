@@ -1,4 +1,4 @@
-<h1 align="left">Previsão de churn de usuário de streaming</h1>
+<h1 align="left">Previsão de churn de usuários de streaming</h1>
 
 ###
 
